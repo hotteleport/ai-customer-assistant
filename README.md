@@ -84,7 +84,3 @@ Voice messages, photo understanding, dashboards and answering from a personal Te
 ## How I used AI
 
 I built this with Claude Code as my development tool. I owned the requirements, architecture, review and deployment decisions.
-
-## Licence
-
-All rights reserved. See [LICENSE](LICENSE). The code is published for viewing and evaluation.
